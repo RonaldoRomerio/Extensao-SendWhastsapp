@@ -1,0 +1,5 @@
+.listContatos {
+    height: 380px;
+    overflow-y: scroll;
+    overflow: auto;
+  }
